@@ -3,4 +3,4 @@ logs
 *.logs
 
 node_modules*
-cypress/screenshots*
+screenshots/
