@@ -2,5 +2,5 @@
 logs
 *.logs
 
-node_modules/
-cypress/screenshots/
+node_modules*
+cypress/screenshots*
